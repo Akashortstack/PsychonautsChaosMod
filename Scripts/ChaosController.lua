@@ -24,7 +24,7 @@ function ChaosController(Ob)
 
         --Time between each following chaos effect, in seconds
         --Values lower than 5 can cause effects to not end properly
-        Ob.chaosTime = 20
+        Ob.chaosTime = 30
 
         --name for the internal timer
         Ob.TIMER_CHAOS = '7006'
