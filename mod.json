@@ -1,0 +1,10 @@
+{
+    "id": "com.akashortstack.chaos",
+    "name": "Chaos Mod",
+    "description": "Causes random, wacky effects to occur while you play. Compatible with Vanilla game, Randomizer, or Archipelago.",
+    "author": "Akashortstack",
+    "version": "0.2.0",
+    
+    "dependencies": [
+    ]
+}
